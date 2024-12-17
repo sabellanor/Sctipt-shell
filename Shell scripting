@@ -1,0 +1,11 @@
+sabellanorly917@cloudshell:"/tugas_sistem_operasis touch info_system.sh
+sabellanorly917@cloudshell:"/tugas_sistem.operasis nano info_system 
+sabellanorly917@cloudshell:"/tugas_sistem_operasis cat info_system.sh
+sabellanorly917@cloudshell:"/tugas_sistem_operasis cat info_system
+#!/bin/bash 
+#menampilkan waktu saat ini
+echo " waktu saat ini: {date}" 
+#menampilkan nama pengguna yang sedang login
+echo pengguna yang sedang login: (whoami) 
+#menampilkan total pengguna disk di sistem 
+echo "total pengguna disk di sistem dfh| grep '^/ #menampilkan informasi disk yang di inginkan sabellanorly917@cloudshell:"/tugas_sistem_operasi$
